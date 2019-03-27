@@ -1,5 +1,5 @@
 VENDOR=amazon
-DEVICE=ford
+DEVICE=austin
 OUTDIR=vendor/$VENDOR/$DEVICE
 MAKEFILE=../../../$OUTDIR/$DEVICE-vendor-blobs.mk
 
